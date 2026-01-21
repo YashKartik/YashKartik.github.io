@@ -1,5 +1,7 @@
-# annamiraotoole.github.io
+# My personal website
 
-# My personal website written with HTML, CSS, and Javascript
+Used: - HTML
+      - CSS 
+      - Javascript
 
-# Making use of elements from several html5up templates
+Design Credits: html5up templates and Annamira O'Toole
